@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/enums/PluginType.ts"],"sourcesContent":["export enum PluginType{    \r\n    Payment=1,\r\n    Shipping =2,\r\n    Tax=3\r\n  }"],"names":["PluginType"],"mappings":"AAAA,WAAYA,UAAU;EAClBA,iDAAS;EACTA,mDAAW;EACXA,yCAAK;AACP,CAAC,EAJSA,kBAAU,KAAVA,kBAAU"}
